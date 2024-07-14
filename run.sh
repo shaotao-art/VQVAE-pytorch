@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=7  python run.py --config ./config.py --run_name 'lr-3e-4-laten-codebook-w-0.1'
